@@ -5,12 +5,10 @@ import java.io.IOException;
 CLASE EJEMPLO PARA CREAR ARCHIVOS
 */
 public class CrearArchivos{
-    public static void main(String[]args){
-        Ejercicio2 e2 = new Ejercicio2();
-        e2.leerArchivo();
-    }
-    /*
-    public static void main(String [] args){
+    
+    public CrearArchivos(){}
+    
+    void crear(){
         File archivo = new File("mi_archivo.txt");//Creamos un objeto File para crear nuestro archivo
         
         try{
@@ -26,5 +24,4 @@ public class CrearArchivos{
             System.out.println("Error al crear el archivo: "+ e.getMessage());
         }
     }
-    */
 }

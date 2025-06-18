@@ -10,10 +10,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**
- *
- * @author APIST-ALUMNOS
- */
 public class Ejercicio2 {
     
     public Ejercicio2(){}
