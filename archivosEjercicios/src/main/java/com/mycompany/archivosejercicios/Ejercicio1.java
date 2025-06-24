@@ -1,6 +1,6 @@
 /*
  * Ejercicio 1
- * Crea un archivo llado saludo.txt y escribe dentro el texto:
+ * Crea un archivo llamado saludo.txt y escribe dentro el texto:
  * "Hola, mundo! Este es mi primer archivo en Java"
  *
  * Usar FileWriter

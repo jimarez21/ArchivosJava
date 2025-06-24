@@ -1,6 +1,6 @@
 package com.mycompany.archivosejercicios;
 
-/*
+/* Ejercicio 4
  * Cuenta cuantas lineas tiene el archivo saludo.txt
  *
  * Usa BufferedReader
